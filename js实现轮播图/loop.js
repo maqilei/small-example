@@ -17,6 +17,7 @@ function startLoop(){
 
 }
 
+//当前页到临临界的处理
 function changeImage(){
     if(currentPage==8){
         currentPage=1
